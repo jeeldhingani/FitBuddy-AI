@@ -1,0 +1,2 @@
+# FitBuddy-AI
+kaggle project
